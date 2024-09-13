@@ -19,6 +19,7 @@
     "cors": "^2.8.5",
     "fs": "0.0.1-security",
     "jose": "^5.8.0",
+    "my-app": "file:",
     "mysql2": "^3.11.2",
     "next": "14.2.9",
     "nodemailer": "^6.9.15",
